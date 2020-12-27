@@ -1,3 +1,3 @@
 #Demo Project README
 this is a simple readme file
-this is an update on a branch
+this is an update
